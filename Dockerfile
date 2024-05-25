@@ -6,18 +6,18 @@
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : MBUVI-Md
-#    * @author : MBUVI
+#    * @project_name : SILVA-Md
+#    * @author : SILVA
 #    * @youtube : https://www.youtube.com/SuhailTechInfo
-#    * @description : MBUVI-Md ,A Multi-functional whatsapp bot md.
+#    * @description : SILVA-Md ,A Multi-functional whatsapp bot md.
 #    * @version 1.3.7
 
 
  
 
 FROM quay.io/suhailtechinfo/suhail-v2
-RUN git clone https://github.com/SuhailTechInfo/Suhail-Md /root/smd
-WORKDIR /root/smd
+RUN git clone https://github.com/SilvaTechB/silvagifted2 /root/silva
+WORKDIR /root/silva
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
