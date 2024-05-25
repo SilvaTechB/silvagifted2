@@ -1,15 +1,15 @@
 {
-  "name": "MBUVI-MD",
-  "description": "I am MBUVI-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : t.me/mbuvi",
-  "logo": "https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg",
-  "keywords": ["MBUVI MD","multi device"],
+  "name": "❤️🚧silva🥲",
+  "description": "I am Silva-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : 254743706010",
+  "logo": "https://telegra.ph/file/751eef74109e0e5c8916c.jpg",
+  "keywords": ["silva MD","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "MBUVI",
+      "value": "𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "MBUVI-ᴍᴅ"
+      "value": "𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉-ᴍᴅ"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Africa/Nairobi"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
@@ -57,7 +57,7 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required" :false,
-      "value": "available"
+      "value": "recording"
     },
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -75,7 +75,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254746440595"
+      "value": "253743706010"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -103,12 +103,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "MBUVI Md",
+      "value": "𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉 Md",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "MBUVI MD",
+      "value": "𝑺𝒊𝒍𝒗𝒂 𝒕𝒆𝒄𝒉 MD",
       "required": false 
     }
   }, 
